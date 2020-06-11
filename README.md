@@ -37,59 +37,81 @@ personal list of flutter packages
 
 ## ui widget 
 
-[octo_image](https://pub.dev/packages/octo_image)
-
-[flutter_screenutil](https://pub.dev/packages/flutter_screenutil)
-
-[intro_views_flutter](https://pub.dev/packages/intro_views_flutter)
-
-[badges](https://pub.dev/packages/badges)
-
 [pin_code_fields](https://pub.dev/packages/pin_code_fields)
 
-[uni_links](https://pub.dev/packages/uni_links)
 
-[flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
-
-[intro_slider](https://pub.dev/packages/intro_slider)
-
-[fl_chart](https://pub.dev/packages/fl_chart)
-
-[flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
+### forms 
 
 [flutter_typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead)
 
 [searchable_dropdown](https://pub.dev/packages/searchable_dropdown)
 
-[flushbar](https://pub.dev/packages/flushbar)
-
 [flutter_tags](https://pub.dev/packages/flutter_tags)
 
-[confetti](https://pub.dev/packages/confetti)
+[autocomplete_textfield](https://pub.dev/packages/autocomplete_textfield)
 
-[flutter_localizer](https://github.com/Norbert515/flutter_localizer)
-
-[emoji_picker](https://pub.dev/packages/emoji_picker)
-
-[dash_chat](https://pub.dev/packages/dash_chat)
+[argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)
 
 [pinput](https://pub.dev/packages/pinput)
 
-[flutter_rounded_progress_bar](https://pub.dev/packages/flutter_rounded_progress_bar)
+[emoji_picker](https://pub.dev/packages/emoji_picker)
 
-[sliding_sheet](https://pub.dev/packages/sliding_sheet)
+
+### intro 
+
+[flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
+
+[intro_views_flutter](https://pub.dev/packages/intro_views_flutter)
+
+[intro_slider](https://pub.dev/packages/intro_slider)
 
 [tutorial_coach_mark](https://pub.dev/packages/tutorial_coach_mark)
-
-[Flutter-ShapeOfView](https://github.com/florent37/Flutter-ShapeOfView)
-
-[argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)
 
 [feature_discovery](https://pub.dev/packages/feature_discovery)
 
 [showcaseview](https://pub.dev/packages/showcaseview)
 
-[autocomplete_textfield](https://pub.dev/packages/autocomplete_textfield)
+### loading 
+
+[octo_image](https://pub.dev/packages/octo_image)
+
+[flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
+
+[flutter_rounded_progress_bar](https://pub.dev/packages/flutter_rounded_progress_bar)
+
+
+
+
+[flutter_screenutil](https://pub.dev/packages/flutter_screenutil)
+
+
+[badges](https://pub.dev/packages/badges)
+
+
+[uni_links](https://pub.dev/packages/uni_links)
+
+
+
+[fl_chart](https://pub.dev/packages/fl_chart)
+
+
+
+
+[flushbar](https://pub.dev/packages/flushbar)
+
+
+[confetti](https://pub.dev/packages/confetti)
+
+[flutter_localizer](https://github.com/Norbert515/flutter_localizer)
+
+
+[dash_chat](https://pub.dev/packages/dash_chat)
+
+[sliding_sheet](https://pub.dev/packages/sliding_sheet)
+
+[Flutter-ShapeOfView](https://github.com/florent37/Flutter-ShapeOfView)
+
+
 
 ## utilities 
 
