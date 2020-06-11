@@ -1,83 +1,82 @@
 # awesome-flutter
 personal list of flutter packages
 
-## multimedia
+  ## multimedia
 
-[chewie](https://pub.dev/packages/chewie)
+  [chewie](https://pub.dev/packages/chewie)
 
-[video_player](https://pub.dev/packages/video_player)
+  [video_player](https://pub.dev/packages/video_player)
 
-[audioplayer](https://github.com/rxlabz/audioplayer)
+  [audioplayer](https://github.com/rxlabz/audioplayer)
 
-[chewie_audio](https://github.com/Sub6Resources/chewie_audio)
+  [chewie_audio](https://github.com/Sub6Resources/chewie_audio)
 
-[assets_audio_player](https://pub.dev/packages/assets_audio_player)
+  [assets_audio_player](https://pub.dev/packages/assets_audio_player)
 
-[photo_manager](https://pub.dev/packages/photo_manager)
+  [photo_manager](https://pub.dev/packages/photo_manager)
 
-[just_audio](https://pub.dev/packages/just_audio)
+  [just_audio](https://pub.dev/packages/just_audio)
 
-[flutter_playout](https://pub.dev/packages/flutter_playout)
+  [flutter_playout](https://pub.dev/packages/flutter_playout)
 
-[soundpool](https://pub.dev/packages/soundpool)
+  [soundpool](https://pub.dev/packages/soundpool)
 
-[flutter_video_compress](https://pub.dev/packages/flutter_video_compress)
+  [flutter_video_compress](https://pub.dev/packages/flutter_video_compress)
 
-[flutter_vlc_player](https://github.com/solid-software/flutter_vlc_player)
+  [flutter_vlc_player](https://github.com/solid-software/flutter_vlc_player)
 
-[video_compress](https://pub.dev/packages/video_compress)
+  [video_compress](https://pub.dev/packages/video_compress)
 
-[flutter_youtube](https://pub.dev/packages/flutter_youtube)
+  [flutter_youtube](https://pub.dev/packages/flutter_youtube)
 
-[video_thumbnail](https://pub.dev/packages/video_thumbnail)
+  [video_thumbnail](https://pub.dev/packages/video_thumbnail)
 
-[flutter_image_compress](https://pub.dev/packages/flutter_image_compress)
+  [flutter_image_compress](https://pub.dev/packages/flutter_image_compress)
 
-[photofilters](https://pub.dev/packages/photofilters)
+  [photofilters](https://pub.dev/packages/photofilters)
 
 ## ui widget 
 
-[pin_code_fields](https://pub.dev/packages/pin_code_fields)
+  ### forms 
+
+  [flutter_typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead)
+
+  [searchable_dropdown](https://pub.dev/packages/searchable_dropdown)
+
+  [flutter_tags](https://pub.dev/packages/flutter_tags)
+
+  [autocomplete_textfield](https://pub.dev/packages/autocomplete_textfield)
+
+  [argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)
+
+  [pinput](https://pub.dev/packages/pinput)
+   
+  [pin_code_fields](https://pub.dev/packages/pin_code_fields)
+
+  [emoji_picker](https://pub.dev/packages/emoji_picker)
 
 
-### forms 
+  ### intro 
 
-[flutter_typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead)
+  [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
 
-[searchable_dropdown](https://pub.dev/packages/searchable_dropdown)
+  [intro_views_flutter](https://pub.dev/packages/intro_views_flutter)
 
-[flutter_tags](https://pub.dev/packages/flutter_tags)
+  [intro_slider](https://pub.dev/packages/intro_slider)
 
-[autocomplete_textfield](https://pub.dev/packages/autocomplete_textfield)
+  [tutorial_coach_mark](https://pub.dev/packages/tutorial_coach_mark)
 
-[argon_buttons_flutter](https://pub.dev/packages/argon_buttons_flutter)
+  [feature_discovery](https://pub.dev/packages/feature_discovery)
 
-[pinput](https://pub.dev/packages/pinput)
+  [showcaseview](https://pub.dev/packages/showcaseview)
 
-[emoji_picker](https://pub.dev/packages/emoji_picker)
+  ### loading 
 
+  [octo_image](https://pub.dev/packages/octo_image)
 
-### intro 
+  [flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
 
-[flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
-
-[intro_views_flutter](https://pub.dev/packages/intro_views_flutter)
-
-[intro_slider](https://pub.dev/packages/intro_slider)
-
-[tutorial_coach_mark](https://pub.dev/packages/tutorial_coach_mark)
-
-[feature_discovery](https://pub.dev/packages/feature_discovery)
-
-[showcaseview](https://pub.dev/packages/showcaseview)
-
-### loading 
-
-[octo_image](https://pub.dev/packages/octo_image)
-
-[flutter_spinkit](https://pub.dev/packages/flutter_spinkit)
-
-[flutter_rounded_progress_bar](https://pub.dev/packages/flutter_rounded_progress_bar)
+  [flutter_rounded_progress_bar](https://pub.dev/packages/flutter_rounded_progress_bar)
 
 
 
